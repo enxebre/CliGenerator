@@ -1,10 +1,12 @@
 CliGenerator is a Command-line user interface generator library for [Console Symfony Component](https://github.com/symfony/Console)
 ============================================================================================
 [![Build Status](https://travis-ci.org/enxebre/CliGenerator.png?branch=master)](https://travis-ci.org/enxebre/CliGenerator)
-
+ 
 CliGenerator (command-line interface generator) is a library that complements the Symfony Console Component
 providing a tool for generating loads of commands dynamically from a given
 source (.json file, method returning an array, .yaml file, etc.).
+
+This library is on [packagist](https://packagist.org/packages/enxebre/cli-generator)
 
 ### Installing via Composer
 
@@ -16,7 +18,7 @@ curl -sS https://getcomposer.org/installer | php
 ```
 
 Adding CliGenerator:
-Add to your current composer.json ```require``` key: ```"enxebre/CliGenerator":"1.0.*" ```
+Add to your current composer.json ```require``` key: ```"enxebre/cli-generator":"1.0.*" ```
 
 After installing, you need to require Composer's autoloader:
 

@@ -5,5 +5,4 @@ if ( ! is_file($autoloadFile = __DIR__.'/../vendor/autoload.php')) {
     exit(1);
 }
 
-var_dump("AUTOLOADFILE" . $autoloadFile);
 require_once $autoloadFile;

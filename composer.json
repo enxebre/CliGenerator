@@ -1,7 +1,7 @@
 {
-    "name": "enxebre/CliGenerator",
+    "name": "enxebre/cli-generator",
     "type": "library",
-    "description": "CliGenerator is a PHP HTTP library for creating symfony/console a command line user interface dynamically from a given source (.json file, .yaml file, array of information, etc.)",
+    "description": "CliGenerator (command-line interface generator) is a library that complements the Symfony Console Component providing a tool for generating loads of commands dynamically from a given source",
     "keywords": ["framework", "console", "command", "generator"],
     "homepage": "https://github.com/enxebre/CliGenerator",
     "license": "MIT",
