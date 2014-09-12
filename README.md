@@ -1,4 +1,4 @@
-CliGenerator is a Command-line user interface generator library for [Console Symfony Component](https://github.com/symfony/Console)
+CliGenerator is a tool for creating cli from configuration files (.json, .yaml, etc.) extending [Console Symfony Component](https://github.com/symfony/Console)
 ============================================================================================
 [![Build Status](https://travis-ci.org/enxebre/CliGenerator.png?branch=master)](https://travis-ci.org/enxebre/CliGenerator)
  
